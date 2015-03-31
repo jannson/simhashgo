@@ -26,3 +26,8 @@
 *.exe
 *.out
 *.app
+
+simhashcpp.6
+simhashcpp.go
+simhashcpp_gc.6
+simhashgo_wrap.cxx
